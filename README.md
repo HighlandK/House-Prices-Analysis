@@ -1,8 +1,8 @@
 # Uncovering the Housing Market: Size, Environment, and Sale Prices
-**MH3511: Data Analysis with Computer** | [cite_start]**Nanyang Technological University** [cite: 4, 5]
+**MH3511: Data Analysis with Computer** | **Nanyang Technological University** 
 
 ## 🏠 Project Overview
-[cite_start]This project investigates the factors influencing residential property prices in **Ames, Iowa** during the 2010s[cite: 70, 524]. [cite_start]Using the Kaggle "House Prices" dataset originally compiled by Dean De Cock, our team conducted rigorous statistical analysis in **R** to determine how structural attributes, environmental factors, and qualitative features impact market value[cite: 80, 84, 123].
+This project investigates the factors influencing residential property prices in **Ames, Iowa** during the 2010s. Using the Kaggle "House Prices" dataset originally compiled by Dean De Cock, our team conducted rigorous statistical analysis in **R** to determine how structural attributes, environmental factors, and qualitative features impact market value.
 
 ### 🔍 Research Questions
 * To what extent does overall property quality relate to sale price? 
